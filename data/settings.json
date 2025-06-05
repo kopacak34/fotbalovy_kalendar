@@ -1,0 +1,8 @@
+{
+    "calendar_event_day_bg": "lightblue",
+    "calendar_selected_day_bg": "#ff80c0",
+    "calendar_selected_event_day_bg": "orange",
+    "calendar_day_fg": "#000000",
+    "main_window_bg": "#c0c0c0",
+    "reminder_days_ahead": 2
+}

@@ -1,0 +1,40 @@
+[
+    {
+        "id": "f9f1db17-34c0-49d6-b9d1-26360c7f283b",
+        "title": "a",
+        "date": "2025-06-04",
+        "time": "18:00",
+        "type": "Zápas (Ligový)",
+        "details": "",
+        "tags": []
+    },
+    {
+        "id": "2ca081a1-8ea5-46bf-b9c3-8d5cbc584620",
+        "title": "adada",
+        "date": "2025-06-12",
+        "time": "17:00",
+        "type": "Trénink",
+        "details": "",
+        "tags": [
+            "aa"
+        ]
+    },
+    {
+        "id": "9401bd98-4995-4487-aad2-bcee3284f2d5",
+        "title": "aaaaaa",
+        "date": "2025-06-06",
+        "time": "12:00",
+        "type": "Zápas (Ligový)",
+        "details": "",
+        "tags": []
+    },
+    {
+        "id": "fb3ad756-9d99-4431-802e-29d3ba60fcb6",
+        "title": "gg",
+        "date": "2025-06-13",
+        "time": "12:00",
+        "type": "Zápas (Ligový)",
+        "details": "",
+        "tags": []
+    }
+]

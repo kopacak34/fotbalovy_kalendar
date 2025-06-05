@@ -1,0 +1,58 @@
+{
+  "fotbalove_tipy": [
+    "Před důležitým zápasem si dej lehkou večeři.",
+    "Nezapomeň na protažení po každém tréninku.",
+    "Sleduj taktiku soupeře, abys mohl lépe reagovat.",
+    "Dostatek spánku je klíčový pro regeneraci.",
+    "Hydratace je důležitá před, během i po výkonu.",
+    "Pravidelně trénuj techniku s míčem.",
+    "Analyzuj své zápasy a hledej oblasti pro zlepšení."
+  ],
+  "zajimavosti": [
+    {
+      "nadpis": "Historie Mistrovství světa",
+      "text": "První Mistrovství světa ve fotbale se konalo v roce 1930 v Uruguayi. Domácí tým také turnaj vyhrál poté, co ve finále porazil Argentinu 4:2."
+    },
+    {
+      "nadpis": "Zlatý míč",
+      "text": "Zlatý míč (Ballon d'Or) je prestižní fotbalové ocenění udělované od roku 1956 časopisem France Football. Původně bylo určeno pouze pro evropské hráče, později pro hráče působící v evropských klubech a od roku 2007 pro hráče z celého světa."
+    },
+    {
+      "nadpis": "Nejrychlejší gól",
+      "text": "Nejrychlejší gól v historii Mistrovství světa vstřelil Hakan Şükür z Turecka v roce 2002 v zápase o třetí místo proti Jižní Koreji, a to již v 11. sekundě zápasu."
+    },
+    {
+      "nadpis": "VAR (Video Assistant Referee)",
+      "text": "Systém VAR byl poprvé oficiálně použit na velkém mezinárodním turnaji na Mistrovství světa FIFA 2018 v Rusku. Jeho cílem je pomoci rozhodčím při klíčových rozhodnutích."
+    }
+  ],
+  "pravidla_fotbalu": [
+    {
+        "pravidlo": "Ofsajd",
+        "popis": "Hráč je v ofsajdové pozici, pokud je kterákoli část jeho hlavy, těla nebo nohou blíže k soupeřově brankové čáře než míč i předposlední hráč soupeře. Hráč není v ofsajdové pozici, pokud je na vlastní polovině hřiště.",
+        "kdy_se_tresta": "Být v ofsajdové pozici samo o sobě není přestupek. Hráč je potrestán za ofsajd, pokud se v okamžiku, kdy se míče dotkne nebo ho zahraje spoluhráč, podle názoru rozhodčího aktivně zapojí do hry."
+    },
+    {
+        "pravidlo": "Přímý volný kop",
+        "popis": "Přímý volný kop je nařízen za fauly jako podražení, udeření, strčení, držení soupeře, nebo hraní rukou (s výjimkou brankáře ve vlastním pokutovém území). Z přímého volného kopu lze přímo vstřelit branku.",
+        "priklad": "Obránce podrazí útočníka těsně před pokutovým územím."
+    }
+  ],
+  "historicke_udalosti_dne": {
+    "MM-DD": {
+        "01-26": "Na tento den v roce 1962 se narodil José Mourinho, jeden z nejúspěšnějších fotbalových trenérů.",
+        "05-25": "Na tento den v roce 2005 se odehrálo slavné finále Ligy mistrů v Istanbulu, kde Liverpool otočil zápas proti AC Milán z 0:3 na 3:3 a vyhrál na penalty.",
+        "07-12": "Na tento den v roce 1998 Francie vyhrála své první Mistrovství světa ve fotbale, když ve finále porazila Brazílii 3:0."
+    },
+    "YYYY-MM-DD": {
+        "1954-07-04": {
+            "nadpis": "Zázrak v Bernu",
+            "text": "Západní Německo senzačně porazilo favorizované Maďarsko 3:2 ve finále Mistrovství světa ve fotbale konaného ve Švýcarsku. Tento zápas je považován za jeden z největších obratů v historii fotbalu."
+        },
+        "1986-06-22": {
+            "nadpis": "Boží ruka a Gól století",
+            "text": "Diego Maradona vstřelil dva legendární góly proti Anglii ve čtvrtfinále Mistrovství světa 1986 v Mexiku. První, známý jako 'Boží ruka', a druhý po neuvěřitelném sólu přes polovinu hřiště, často označovaný jako 'Gól století'."
+        }
+    }
+  }
+}
